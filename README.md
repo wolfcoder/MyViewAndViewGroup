@@ -8,3 +8,4 @@ latihan LinearLayout, RelativeLayout  Group
 latihan Menganalisis View dan ViewGroup
 
 push from terminal
+edit from browser
